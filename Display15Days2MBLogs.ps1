@@ -7,7 +7,8 @@
 
 # Display the output in table format showing file name, file size (in MB), and last modified date.
 
-$path = "C:\AutomationLab\Logs"
+# $path = "C:\AutomationLab\Logs"
+$path = "C:\Windows\Temp"
 $thresholdSizeMB = 2
 $daysThreshold = 15
 $cutoffDate = (Get-Date).AddDays(-$daysThreshold)

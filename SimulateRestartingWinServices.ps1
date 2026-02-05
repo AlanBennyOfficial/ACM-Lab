@@ -1,3 +1,5 @@
+# Question 2
+
 # Write a PowerShell script to identify all stopped Windows services and simulate
 # restarting them using the-WhatIf parameter. Display the service name and status.
 

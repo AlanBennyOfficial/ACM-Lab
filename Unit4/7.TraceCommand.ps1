@@ -1,0 +1,1 @@
+trace-command -Name metadata, ParameterBinding, Cmdlet -Option All -Expression {get-process svchost} -PSHost
